@@ -1,0 +1,5 @@
+{
+  "name": "Football Intelligence System",
+  "description": "A web application that leverages AI to analyze and predict football match outcomes based on SofaScore or BeSoccer links. It provides detailed predictions including most likely score, win/draw/loss probabilities, and over/under statistics, mimicking a complex data analysis pipeline.",
+  "requestFramePermissions": []
+}
